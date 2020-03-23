@@ -1,0 +1,7 @@
+﻿  Lab 5.cpp
+  Service.cpp
+  ServiceTests.cpp
+  UI.cpp
+C:\Users\hp\Desktop\Lab 5 - Copie\UI.cpp(95,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Lab 5.vcxproj -> C:\Users\hp\Desktop\Lab 5 - Copie\x64\Debug\Lab 5.exe
