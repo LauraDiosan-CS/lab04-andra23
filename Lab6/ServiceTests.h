@@ -1,0 +1,10 @@
+#pragma once
+void testAddGymExercise();
+void testDeleteGymExercise();
+void testUpdateGymExercise();
+void testFilterGymExercise();
+void testFilterAndDelete();
+void testUndoRedoAdd();
+void testUndoRedoDelete();
+void testUndoRedoUpdate();
+void testUndoRedoFilter();
